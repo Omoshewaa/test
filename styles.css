@@ -1,0 +1,316 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#landing{
+    background-color: lightblue;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.pave{
+    padding: 10px 100px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex; 
+}
+.wrapper{
+ margin: 20px 100px 20px 0;
+}
+.cluster{
+    margin-bottom: 20px;
+}
+.about{
+ list-style-type: none;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+    padding-right: 15px;
+}
+.established{
+    text-decoration: none;
+    color: green; 
+    padding-left: 60px;
+}
+.data{
+    padding-left: 80px;
+}
+.vest{
+   background-color: green;
+   color: white;
+   border-radius: 5px;
+   text-decoration: none;
+   font-size: 15px;
+   display: flex;
+   margin-left: 20px;
+   width: 50px;
+   padding: 5px 10px;
+}
+.cooperate{
+    display: flex; 
+    margin-left: 400px;
+}
+.media{
+    margin: 60px 40px 60px 0;
+}
+.purpose{
+    display: flex; 
+    justify-content: space-between;
+    height: 370px;
+}
+.gift{
+    color: green;
+    font-size: 35px;
+    margin-left: 80px;
+    margin-top: 0;
+}
+.copy{
+     font-size: 35px;
+     margin-left: 80px;
+     margin-bottom: 0;
+}
+.original{
+    margin-left: 80px;
+   
+}
+.dove{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-left: 80px;
+}
+.accurate{
+    margin-right: 200px;
+    padding: 20px;
+}
+.ferm{
+   padding: 20px;
+}
+.product{
+    text-align: center;
+    padding: 40px 0;
+}
+.hero{
+    background-color: green;
+    color: white;
+    margin-right:  80px ;
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.plaza{
+    text-align: center;
+}
+.arial{
+  font-size: 14px;
+}
+.flavor{
+    display: flex;
+}
+.freek{
+    margin-left: 80px;
+    margin-right: 40px;
+    padding: 20px 60px;
+    border: 1px solid whitesmoke;
+    height: 250px;
+}
+.wave{
+  display: flex;
+  justify-content: space-between;
+}
+.gold{
+    font-size: 17px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.wear{
+  text-align: center;
+}
+.wet{
+    padding: 0 18px;
+    text-align: center;
+}
+.social{
+    padding-left: 80px;
+}
+.cafe{
+  margin: 60px 150px;
+}
+.saver{
+   padding-top: 60px;
+   padding-right: 350px;  
+
+}
+.fruit{
+    white-space: pre-line;
+    padding-right: 80px;
+}
+.tote{
+    display: flex;
+}
+.more{
+    display: flex;
+}
+.golden{
+     margin-left: 300px;
+}
+.cave{
+    margin: 20px 0px 20px 100px;
+}
+.band{
+     padding: 20px 500px 0 80px;
+}
+.better{
+    color:green;
+    font-size: 18px;
+    padding-left: 0px;
+}
+.boom{
+   margin-right: 400px;
+}
+.portion{
+    text-align: center;
+    padding: 30px 0;
+}
+.process{
+    margin-left: 450px;
+    margin-right: 430px;
+}
+.boot{
+    display: flex;
+    justify-content: space-between;
+}
+.reserved{
+    margin-left: 40px;
+}
+.poke{
+    margin-right: 40px;
+}
+.box{
+  width: 220px;
+  text-align: center;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+.pure{
+  background-color: whitesmoke;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  overflow: visible;
+  width: 300px;
+  margin-left: 25px;
+  height: 170px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.laid{
+  background-color: whitesmoke;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  overflow: visible;
+  width: 300px;
+  margin-left: 25px;
+  height: 170px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.freak{
+    text-decoration: none;
+    text-align: center;
+    color: green;
+    padding-left: 100px;
+}
+.fryy{
+  width: 220px;
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.bottom{
+    background-image: url("image\ 18.png");
+    height: 280px;
+    width: 350px;
+    margin-top: 0;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.calories{
+    background-image: url("image 19.png");
+    height: 280px;
+    width: 350px;
+    margin-top: 0;
+    border-radius: 10px;
+}
+.marble{
+    background-image: url("image\ 20.png");
+    height: 280px;
+    width: 350px;
+    margin-top: 0;
+    border-radius: 10px;
+    margin-right: 100px;
+}
+.bend{
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 120px;
+    padding-bottom: 60px;
+}
+.booking{
+    background-color: green;
+    color: white;
+    margin-left: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+}
+#savior{
+    background-color: black;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.management{
+    display: flex;
+    justify-content: space-between;
+}
+.frame{
+    margin-left: 130px;
+}
+.fraggile{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.blurr{
+    margin-left: 200px;
+}
+.froze{
+    font-size: 30px;
+    color: white;
+}
+.froc{
+    color: white;
+    padding-left: 30px;
+}
+.fro{
+    color: white;
+    padding-left: 30px;
+}
+.end{
+    color: white;
+    margin-right: 80px; 
+}
+.growth{
+   color: white; 
+   text-decoration: none;
+}
+.capp{
+   padding-left: 480px;
+}
+.flower{
+     padding-left: 480px;
+}
+
+
